@@ -1,0 +1,43 @@
+<!--	
+		Created by Brendon Albertson
+		albertsonbrendon@gmail.com
+-->
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+
+	<title>Test</title>
+	<meta name="description" content="Collocations Searcher">
+	<meta name="author" content="Brendon Albertson">
+
+	<link rel="stylesheet" type="text/css" href="styles.css">
+
+	<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+
+</head>
+	
+<body>
+
+	<h1 id='title'>Academic Collocations Searcher:</h1>
+
+
+	<input type="text" id="searchbox" />
+	<button id='search' onclick="search()">Search</button>
+	&nbsp;&nbsp;
+	<br><br>
+
+
+	<div id='results-container-before'></div>
+	<div id='results-container-after'></div>
+
+	<script src="collocations_displayer.js"></script>
+
+</body>
+
+<footer>
+	Created by <a href='http://www.brendonalbertson.com'>Brendon Albertson</a> &#169;2021, using the <a href="http://dx.doi.org/10.1075/ijcl.16135.lei">Academic English Collocation List</a> (Lei & Liu, 2018)
+</footer>

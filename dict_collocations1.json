@@ -1,0 +1,3485 @@
+{
+  "absent": [
+    "virtually"
+  ],
+  "acceptable": [
+    "consider",
+    "deem"
+  ],
+  "acceptance": [
+    "gain"
+  ],
+  "access": [
+    "directly"
+  ],
+  "accessible": [
+    "easily",
+    "readily"
+  ],
+  "account": [
+    "partially",
+    "partly",
+    "together"
+  ],
+  "accuracy": [
+    "cheque",
+    "improve"
+  ],
+  "accurate": [
+    "entirely",
+    "highly",
+    "probably",
+    "reasonably"
+  ],
+  "achieve": [
+    "actually",
+    "easily",
+    "finally",
+    "largely",
+    "simply"
+  ],
+  "acquire": [
+    "easily"
+  ],
+  "acquisition": [
+    "facilitate"
+  ],
+  "act": [
+    "perform"
+  ],
+  "active": [
+    "particularly"
+  ],
+  "activity": [
+    "conduct",
+    "perform",
+    "promote",
+    "regulate",
+    "stimulate",
+    "undertake"
+  ],
+  "adapt": [
+    "easily",
+    "well"
+  ],
+  "address": [
+    "adequately",
+    "directly",
+    "effectively",
+    "explicitly",
+    "simultaneously",
+    "specifically "
+  ],
+  "adequate": [
+    "consider"
+  ],
+  "adhere": [
+    "strictly"
+  ],
+  "adjacent": [
+    "make",
+    "require "
+  ],
+  "adopt": [
+    "later",
+    "widely"
+  ],
+  "adoption": [
+    "widespread"
+  ],
+  "affect": [
+    "adversely",
+    "certainly",
+    "clearly",
+    "differentially",
+    "differently",
+    "directly",
+    "equally",
+    "greatly",
+    "indirectly",
+    "negatively",
+    "particularly",
+    "positively",
+    "probably",
+    "profoundly",
+    "seriously",
+    "severely",
+    "significantly",
+    "similarly",
+    "strongly",
+    "substantially"
+  ],
+  "affinity": [
+    "have"
+  ],
+  "aim": [
+    "achieve"
+  ],
+  "align": [
+    "closely"
+  ],
+  "allowance": [
+    "make"
+  ],
+  "alter": [
+    "significantly",
+    "slightly",
+    "substantially"
+  ],
+  "alternative": [
+    "offer",
+    "provide",
+    "seek"
+  ],
+  "ambiguity": [
+    "resolve"
+  ],
+  "analogy": [
+    "draw",
+    "use"
+  ],
+  "analysis": [
+    "conduct",
+    "perform",
+    "permit",
+    "restrict",
+    "simplify",
+    "undertake "
+  ],
+  "apparatus": [
+    "use"
+  ],
+  "apparent": [
+    "become"
+  ],
+  "appendix": [
+    "see"
+  ],
+  "applicable": [
+    "directly",
+    "generally",
+    "particularly "
+  ],
+  "application": [
+    "discuss"
+  ],
+  "apply": [
+    "broadly",
+    "consistently",
+    "directly",
+    "easily",
+    "effectively",
+    "equally",
+    "finally",
+    "frequently",
+    "mainly",
+    "normally",
+    "particularly",
+    "similarly",
+    "specifically",
+    "successfully",
+    "typically",
+    "well skill",
+    "strategy",
+    "technique",
+    "theory"
+  ],
+  "approach": [
+    "adopt",
+    "advocate",
+    "apply",
+    "combine",
+    "develop",
+    "employ",
+    "implement",
+    "incorporate",
+    "offer",
+    "outline",
+    "propose",
+    "take",
+    "underlie",
+    "use"
+  ],
+  "appropriate": [
+    "particularly "
+  ],
+  "array": [
+    "vast",
+    "wide"
+  ],
+  "article": [
+    "published",
+    "recent",
+    "relevant"
+  ],
+  "articulate": [
+    "clearly"
+  ],
+  "aspect": [
+    "support"
+  ],
+  "assess": [
+    "accurately",
+    "correctly",
+    "critically",
+    "directly",
+    "easily",
+    "fully extent",
+    "impact",
+    "importance",
+    "influence",
+    "need",
+    "perception",
+    "performance",
+    "relationship",
+    "relevance",
+    "reliability",
+    "role",
+    "severity",
+    "significance",
+    "status",
+    "strength",
+    "validity"
+  ],
+  "assign": [
+    "randomly"
+  ],
+  "assistance": [
+    "provide",
+    "receive",
+    "require"
+  ],
+  "associate": [
+    "clearly",
+    "closely",
+    "commonly",
+    "consistently",
+    "directly",
+    "frequently",
+    "generally",
+    "intimately",
+    "negatively",
+    "normally",
+    "particularly",
+    "positively",
+    "primarily",
+    "significantly",
+    "similarly",
+    "strongly",
+    "traditionally",
+    "typically",
+    "usually"
+  ],
+  "association": [
+    "demonstrate",
+    "examine",
+    "find",
+    "investigate",
+    "reveal",
+    "show"
+  ],
+  "assume": [
+    "commonly",
+    "generally",
+    "implicitly",
+    "mistakenly",
+    "normally",
+    "similarly",
+    "simply",
+    "usually"
+  ],
+  "assumption": [
+    "make",
+    "meet",
+    "question",
+    "support",
+    "violate "
+  ],
+  "attempt": [
+    "make",
+    "represent"
+  ],
+  "attitude": [
+    "directly "
+  ],
+  "attribute": [
+    "directly",
+    "largely",
+    "solely"
+  ],
+  "author": [
+    "latter",
+    "original",
+    "various"
+  ],
+  "availability": [
+    "resource"
+  ],
+  "available": [
+    "make"
+  ],
+  "axis": [
+    "central",
+    "vertical"
+  ],
+  "barrier": [
+    "constitute",
+    "create",
+    "provide"
+  ],
+  "base": [
+    "entirely",
+    "exclusively",
+    "largely",
+    "mainly",
+    "partly",
+    "primarily",
+    "solely",
+    "usually "
+  ],
+  "basis": [
+    "establish",
+    "form",
+    "provide"
+  ],
+  "belief": [
+    "express",
+    "support"
+  ],
+  "beneficial": [
+    "mutually",
+    "particularly",
+    "potentially "
+  ],
+  "benefit": [
+    "appreciate",
+    "bring",
+    "confer",
+    "demonstrate",
+    "derive",
+    "gain",
+    "highlight",
+    "maximise",
+    "offer",
+    "provide",
+    "reap",
+    "receive"
+  ],
+  "bias": [
+    "avoid",
+    "introduce",
+    "reduce",
+    "reflect"
+  ],
+  "boundary": [
+    "cross",
+    "define pattern",
+    "perspective",
+    "range",
+    "spectrum",
+    "term",
+    "view"
+  ],
+  "capability": [
+    "have"
+  ],
+  "capacity": [
+    "basic",
+    "broad",
+    "certain",
+    "diagnostic",
+    "different",
+    "discrete",
+    "distinct",
+    "final",
+    "general",
+    "latter",
+    "major",
+    "separate",
+    "specific"
+  ],
+  "category": [
+    "represent"
+  ],
+  "caveat": [
+    "important"
+  ],
+  "century": [
+    "half"
+  ],
+  "challenge": [
+    "abrupt",
+    "behavioural",
+    "considerable",
+    "cultural",
+    "developmental",
+    "dramatic",
+    "drastic",
+    "environmental",
+    "evolutionary",
+    "following",
+    "frequent",
+    "fundamental",
+    "gradual",
+    "greatest",
+    "historical",
+    "little",
+    "major",
+    "marked",
+    "massive",
+    "meaningful",
+    "minor",
+    "noticeable",
+    "organisational",
+    "positive",
+    "profound",
+    "progressive",
+    "proposed",
+    "qualitative",
+    "radical",
+    "rapid",
+    "recent",
+    "remarkable",
+    "resulting",
+    "significant",
+    "small",
+    "social",
+    "structural",
+    "subsequent",
+    "substantial",
+    "subtle",
+    "sudden",
+    "systemic",
+    "technological",
+    "tremendous "
+  ],
+  "change": [
+    "assess",
+    "cause",
+    "facilitate",
+    "find",
+    "implement",
+    "initiate",
+    "produce",
+    "reflect",
+    "track",
+    "undergo "
+  ],
+  "characteristic": [
+    "describe",
+    "display",
+    "examine",
+    "exhibit",
+    "identify",
+    "possess",
+    "reflect",
+    "share",
+    "show"
+  ],
+  "characterise": [
+    "typically"
+  ],
+  "cite": [
+    "commonly",
+    "frequently"
+  ],
+  "civilisation": [
+    "western"
+  ],
+  "claim": [
+    "make",
+    "support"
+  ],
+  "clarification": [
+    "require"
+  ],
+  "climate": [
+    "current",
+    "political"
+  ],
+  "code": [
+    "civil"
+  ],
+  "coincide": [
+    "necessarily"
+  ],
+  "colleague": [
+    "senior"
+  ],
+  "combination": [
+    "complex",
+    "linear",
+    "optimal",
+    "particular",
+    "possible",
+    "specific",
+    "various "
+  ],
+  "commitment": [
+    "involve",
+    "make",
+    "require"
+  ],
+  "common": [
+    "extremely",
+    "fairly",
+    "increasingly",
+    "particularly",
+    "quite",
+    "relatively"
+  ],
+  "communicate": [
+    "effectively "
+  ],
+  "communication": [
+    "directly"
+  ],
+  "comparison": [
+    "detailed",
+    "direct",
+    "international",
+    "meaningful",
+    "multiple",
+    "statistical",
+    "systematic"
+  ],
+  "competitive": [
+    "highly"
+  ],
+  "complex": [
+    "extremely",
+    "far",
+    "highly",
+    "increasingly",
+    "relatively"
+  ],
+  "complexity": [
+    "add",
+    "increase",
+    "reduce",
+    "reflect "
+  ],
+  "component": [
+    "add",
+    "contain",
+    "identify",
+    "include",
+    "incorporate"
+  ],
+  "compose": [
+    "mainly"
+  ],
+  "conceive": [
+    "originally"
+  ],
+  "concept": [
+    "apply",
+    "bring",
+    "define",
+    "develop",
+    "discuss",
+    "explain",
+    "express",
+    "illustrate",
+    "introduce",
+    "understand"
+  ],
+  "concern": [
+    "especially",
+    "far",
+    "primarily"
+  ],
+  "conclude": [
+    "finally"
+  ],
+  "conclusion": [
+    "draw",
+    "reach",
+    "reinforce",
+    "support "
+  ],
+  "condition": [
+    "create",
+    "improve",
+    "meet",
+    "satisfy",
+    "specify  research",
+    "search",
+    "survey",
+    "test"
+  ],
+  "configuration": [
+    "largely "
+  ],
+  "conflict": [
+    "cause",
+    "resolve"
+  ],
+  "confound": [
+    "potentially"
+  ],
+  "connexion": [
+    "close",
+    "direct",
+    "possible",
+    "strong "
+  ],
+  "consensus": [
+    "reach"
+  ],
+  "consequence": [
+    "assess",
+    "avoid",
+    "consider",
+    "examine",
+    "explore",
+    "have",
+    "suffer",
+    "understand "
+  ],
+  "consideration": [
+    "deserve",
+    "give",
+    "include",
+    "merit",
+    "require",
+    "warrant"
+  ],
+  "consist": [
+    "entirely",
+    "essentially",
+    "largely",
+    "mainly",
+    "normally",
+    "primarily",
+    "simply",
+    "typically",
+    "usually"
+  ],
+  "consistency": [
+    "ensure",
+    "show"
+  ],
+  "consistent": [
+    "broadly",
+    "completely",
+    "entirely",
+    "fairly",
+    "generally",
+    "internally",
+    "relatively "
+  ],
+  "constraint": [
+    "impose",
+    "place",
+    "satisfy"
+  ],
+  "construct": [
+    "newly",
+    "socially"
+  ],
+  "consumption": [
+    "reduce"
+  ],
+  "contact": [
+    "similarly",
+    "typically",
+    "usually"
+  ],
+  "context": [
+    "provide"
+  ],
+  "contradictory": [
+    "apparently"
+  ],
+  "contrast": [
+    "direct",
+    "marked",
+    "sharp",
+    "stark",
+    "striking",
+    "strong "
+  ],
+  "contribute": [
+    "actively",
+    "directly",
+    "equally",
+    "greatly",
+    "probably",
+    "significantly",
+    "substantially"
+  ],
+  "contribution": [
+    "evaluate",
+    "examine",
+    "make",
+    "represent"
+  ],
+  "control": [
+    "adequately",
+    "carefully",
+    "effectively",
+    "properly",
+    "strictly",
+    "tightly "
+  ],
+  "correspond": [
+    "closely",
+    "respectively",
+    "roughly "
+  ],
+  "creation": [
+    "allow",
+    "involve"
+  ],
+  "credence": [
+    "lend"
+  ],
+  "critical": [
+    "particularly"
+  ],
+  "cue": [
+    "take"
+  ],
+  "culture": [
+    "create"
+  ],
+  "cycle": [
+    "break"
+  ],
+  "data": [
+    "access",
+    "acquire",
+    "analyse",
+    "collect",
+    "describe",
+    "examine",
+    "fit",
+    "gather",
+    "get",
+    "handle",
+    "hold",
+    "include",
+    "interpret",
+    "obtain",
+    "present",
+    "process",
+    "produce",
+    "provide",
+    "share",
+    "show",
+    "summarise",
+    "use"
+  ],
+  "decision-making": [
+    "process"
+  ],
+  "decline": [
+    "population"
+  ],
+  "define": [
+    "accurately",
+    "broadly",
+    "carefully",
+    "clearly",
+    "culturally",
+    "differently",
+    "formally",
+    "generally",
+    "operationally",
+    "precisely",
+    "sharply",
+    "similarly",
+    "simply",
+    "specifically",
+    "typically",
+    "usually",
+    "well"
+  ],
+  "definition": [
+    "meet",
+    "provide"
+  ],
+  "degree": [
+    "assess",
+    "demonstrate",
+    "determine",
+    "examine",
+    "involve",
+    "measure",
+    "offer",
+    "possess",
+    "reflect",
+    "show"
+  ],
+  "delineate": [
+    "clearly"
+  ],
+  "demand": [
+    "create",
+    "impose",
+    "increase",
+    "make",
+    "meet",
+    "place",
+    "reduce",
+    "reflect",
+    "satisfy "
+  ],
+  "depend": [
+    "clearly",
+    "critically",
+    "crucially",
+    "greatly",
+    "heavily",
+    "largely",
+    "mainly",
+    "obviously",
+    "partly",
+    "primarily",
+    "strongly",
+    "ultimately"
+  ],
+  "dependence": [
+    "reduce"
+  ],
+  "dependent": [
+    "entirely",
+    "heavily",
+    "highly",
+    "largely",
+    "strongly",
+    "totally "
+  ],
+  "depression": [
+    "severe"
+  ],
+  "deprivation": [
+    "social"
+  ],
+  "derive": [
+    "directly",
+    "empirically",
+    "largely",
+    "mainly",
+    "originally"
+  ],
+  "describe": [
+    "accurately",
+    "adequately",
+    "appropriately",
+    "briefly",
+    "commonly",
+    "correctly",
+    "earlier",
+    "fully",
+    "later",
+    "previously",
+    "simply",
+    "subsequently",
+    "variously"
+  ],
+  "description": [
+    "contain",
+    "give",
+    "include",
+    "match",
+    "provide"
+  ],
+  "design": [
+    "strong"
+  ],
+  "desire": [
+    "express"
+  ],
+  "determinant": [
+    "important",
+    "key",
+    "main",
+    "major "
+  ],
+  "determine": [
+    "finally",
+    "genetically",
+    "largely",
+    "primarily",
+    "solely",
+    "ultimately",
+    "uniquely "
+  ],
+  "develop": [
+    "fully",
+    "gradually",
+    "initially",
+    "originally",
+    "primarily",
+    "rapidly",
+    "recently",
+    "separately",
+    "slowly",
+    "soon",
+    "specifically",
+    "subsequently",
+    "sufficiently",
+    "typically"
+  ],
+  "development": [
+    "affect",
+    "aid",
+    "enable",
+    "encourage",
+    "examine",
+    "facilitate",
+    "foster",
+    "hinder",
+    "impede",
+    "influence",
+    "inform",
+    "prevent",
+    "promote",
+    "reflect",
+    "stimulate",
+    "support",
+    "undergo"
+  ],
+  "device": [
+    "use"
+  ],
+  "diagram": [
+    "simple"
+  ],
+  "differ": [
+    "considerably",
+    "greatly",
+    "significantly",
+    "widely "
+  ],
+  "difference": [
+    "assess",
+    "demonstrate",
+    "detect",
+    "evaluate",
+    "examine",
+    "explain",
+    "explore",
+    "find",
+    "highlight",
+    "identify",
+    "illustrate",
+    "indicate",
+    "investigate",
+    "make",
+    "minimise",
+    "obscure",
+    "recognise",
+    "reflect",
+    "resolve",
+    "reveal",
+    "show"
+  ],
+  "differentiate": [
+    "clearly"
+  ],
+  "difficulty": [
+    "avoid",
+    "cause",
+    "create",
+    "demonstrate",
+    "discuss",
+    "encounter",
+    "experience",
+    "explain",
+    "face",
+    "have",
+    "highlight",
+    "illustrate",
+    "overcome",
+    "pose",
+    "present",
+    "reflect",
+    "resolve "
+  ],
+  "dilemma": [
+    "pose",
+    "present"
+  ],
+  "dimension": [
+    "add",
+    "measure"
+  ],
+  "direct": [
+    "primarily",
+    "specifically comparison",
+    "competition",
+    "connexion",
+    "consequence",
+    "contact",
+    "contrast",
+    "control",
+    "correlation",
+    "effect",
+    "evidence",
+    "experience",
+    "impact",
+    "implication",
+    "influence",
+    "input",
+    "interaction",
+    "investment",
+    "involvement",
+    "link",
+    "measure",
+    "mechanism",
+    "method",
+    "observation",
+    "proportion",
+    "reflection",
+    "relation",
+    "relationship",
+    "relevance",
+    "responsibility",
+    "result",
+    "translation"
+  ],
+  "directive": [
+    "issue"
+  ],
+  "disadvantage": [
+    "have"
+  ],
+  "discipline": [
+    "new",
+    "recent",
+    "scientific "
+  ],
+  "discuss": [
+    "briefly",
+    "extensively",
+    "finally",
+    "fully",
+    "previously",
+    "recently",
+    "separately",
+    "widely "
+  ],
+  "discussion": [
+    "begin",
+    "encourage",
+    "facilitate",
+    "generate",
+    "include "
+  ],
+  "distinct": [
+    "quite point",
+    "process",
+    "region",
+    "structure",
+    "type"
+  ],
+  "distinction": [
+    "draw",
+    "make"
+  ],
+  "distribute": [
+    "equally",
+    "evenly",
+    "normally",
+    "randomly",
+    "unevenly",
+    "widely"
+  ],
+  "distribution": [
+    "emotional"
+  ],
+  "diversity": [
+    "well"
+  ],
+  "domain": [
+    "define"
+  ],
+  "drawback": [
+    "have"
+  ],
+  "effect": [
+    "achieve",
+    "analyse",
+    "assess",
+    "avoid",
+    "capture",
+    "demonstrate",
+    "detect",
+    "determine",
+    "disentangle",
+    "eliminate",
+    "estimate",
+    "evaluate",
+    "examine",
+    "exert",
+    "explain",
+    "explore",
+    "ignore",
+    "indicate",
+    "investigate",
+    "isolate",
+    "minimise",
+    "mitigate",
+    "predict",
+    "produce",
+    "reduce",
+    "reveal",
+    "show"
+  ],
+  "effective": [
+    "equally",
+    "highly",
+    "particularly",
+    "potentially"
+  ],
+  "element": [
+    "add",
+    "combine",
+    "contain",
+    "identify",
+    "include",
+    "incorporate",
+    "involve"
+  ],
+  "embed": [
+    "deeply"
+  ],
+  "emerge": [
+    "clearly",
+    "recently"
+  ],
+  "emphasis": [
+    "place"
+  ],
+  "employ": [
+    "currently",
+    "directly",
+    "frequently",
+    "widely"
+  ],
+  "encounter": [
+    "frequently",
+    "previously "
+  ],
+  "enhance": [
+    "considerably",
+    "greatly stability",
+    "standard",
+    "survival",
+    "validity"
+  ],
+  "enterprise": [
+    "commercial"
+  ],
+  "entity": [
+    "distinct",
+    "independent",
+    "new",
+    "separate",
+    "single "
+  ],
+  "environment": [
+    "create",
+    "perceive"
+  ],
+  "equality": [
+    "gender"
+  ],
+  "equilibrium": [
+    "restore"
+  ],
+  "equivalent": [
+    "approximately",
+    "roughly "
+  ],
+  "erosion": [
+    "soil"
+  ],
+  "error": [
+    "absolutely",
+    "clearly"
+  ],
+  "establish": [
+    "clearly",
+    "finally",
+    "firmly",
+    "formally",
+    "initially",
+    "long",
+    "newly",
+    "previously",
+    "quickly",
+    "recently",
+    "successfully",
+    "well"
+  ],
+  "estimate": [
+    "affect",
+    "give",
+    "produce",
+    "provide "
+  ],
+  "ethic": [
+    "research",
+    "work"
+  ],
+  "evolution": [
+    "biological",
+    "human"
+  ],
+  "examine": [
+    "briefly",
+    "carefully",
+    "closely",
+    "critically",
+    "directly",
+    "explicitly",
+    "later",
+    "next",
+    "separately",
+    "specifically"
+  ],
+  "example": [
+    "cite",
+    "provide"
+  ],
+  "exceed": [
+    "far",
+    "significantly"
+  ],
+  "exchange": [
+    "facilitate"
+  ],
+  "exclude": [
+    "completely",
+    "largely",
+    "specifically "
+  ],
+  "exist": [
+    "actually",
+    "certainly",
+    "currently",
+    "longer "
+  ],
+  "existence": [
+    "assume",
+    "confirm",
+    "demonstrate",
+    "imply",
+    "indicate",
+    "reveal",
+    "suggest"
+  ],
+  "expectancy": [
+    "life"
+  ],
+  "expenditure": [
+    "capital"
+  ],
+  "experience": [
+    "capture",
+    "describe",
+    "enjoy",
+    "explore",
+    "gain",
+    "reflect",
+    "share "
+  ],
+  "expertise": [
+    "require"
+  ],
+  "explanation": [
+    "give",
+    "offer",
+    "provide",
+    "receive",
+    "require "
+  ],
+  "explore": [
+    "fully"
+  ],
+  "express": [
+    "clearly",
+    "differently",
+    "frequently",
+    "fully",
+    "usually"
+  ],
+  "extend": [
+    "easily",
+    "gradually",
+    "greatly",
+    "later",
+    "well"
+  ],
+  "extension": [
+    "consider"
+  ],
+  "extent": [
+    "affect",
+    "assess",
+    "determine",
+    "establish",
+    "examine",
+    "explore",
+    "indicate",
+    "investigate",
+    "limit",
+    "reduce",
+    "reflect discussion",
+    "exchange",
+    "flow",
+    "interpretation",
+    "learning",
+    "process",
+    "recognition",
+    "transfer",
+    "understanding"
+  ],
+  "facility": [
+    "provide",
+    "require"
+  ],
+  "factor": [
+    "consider",
+    "examine",
+    "explore",
+    "highlight",
+    "identify",
+    "ignore",
+    "incorporate",
+    "investigate"
+  ],
+  "failure": [
+    "cause",
+    "explain"
+  ],
+  "feature": [
+    "contain",
+    "display",
+    "examine",
+    "highlight",
+    "identify",
+    "incorporate",
+    "share "
+  ],
+  "figure": [
+    "comparable",
+    "corresponding",
+    "following",
+    "higher "
+  ],
+  "finding": [
+    "communicate",
+    "confirm",
+    "contradict",
+    "corroborate",
+    "discuss",
+    "explain",
+    "extend",
+    "interpret",
+    "replicate",
+    "reveal",
+    "summarise",
+    "support",
+    "yield"
+  ],
+  "flexibility": [
+    "allow",
+    "give",
+    "increase",
+    "offer",
+    "provide "
+  ],
+  "flow": [
+    "facilitate",
+    "interrupt"
+  ],
+  "focus": [
+    "exclusively",
+    "increasingly",
+    "largely",
+    "mainly",
+    "narrowly",
+    "particularly",
+    "primarily",
+    "solely",
+    "specifically",
+    "traditionally",
+    "typically"
+  ],
+  "form": [
+    "newly"
+  ],
+  "format": [
+    "use"
+  ],
+  "fraction": [
+    "small",
+    "tiny"
+  ],
+  "fragment": [
+    "small"
+  ],
+  "framework": [
+    "adopt",
+    "develop",
+    "establish",
+    "present",
+    "provide",
+    "use "
+  ],
+  "function": [
+    "effectively",
+    "independently",
+    "normally"
+  ],
+  "gain": [
+    "achieve",
+    "demonstrate",
+    "make consider",
+    "define",
+    "expect",
+    "hold",
+    "improve",
+    "involve",
+    "know",
+    "perceive",
+    "recognise",
+    "refer",
+    "regard",
+    "require",
+    "speak",
+    "suppose",
+    "take",
+    "tend",
+    "think",
+    "treat",
+    "understand"
+  ],
+  "generate": [
+    "randomly"
+  ],
+  "goal": [
+    "accomplish",
+    "achieve",
+    "define",
+    "meet",
+    "reach",
+    "set"
+  ],
+  "group": [
+    "comprise",
+    "join"
+  ],
+  "growth": [
+    "encourage",
+    "explain",
+    "promote",
+    "stimulate "
+  ],
+  "harmful": [
+    "potentially"
+  ],
+  "helpful": [
+    "left",
+    "northern",
+    "right",
+    "southern  skilled",
+    "structure",
+    "value",
+    "vary"
+  ],
+  "history": [
+    "family",
+    "life",
+    "social"
+  ],
+  "homogeneous": [
+    "relatively communication",
+    "consumption",
+    "culture",
+    "development",
+    "error",
+    "evolution",
+    "experience",
+    "eye",
+    "face",
+    "geography",
+    "health",
+    "history",
+    "intelligence",
+    "interaction",
+    "intervention",
+    "knowledge",
+    "life",
+    "memory",
+    "mind",
+    "nature",
+    "population",
+    "race",
+    "resource",
+    "right",
+    "society",
+    "species",
+    "subject",
+    "trait"
+  ],
+  "hypothesis": [
+    "confirm",
+    "develop",
+    "evaluate",
+    "examine",
+    "generate",
+    "reject",
+    "support",
+    "test "
+  ],
+  "identical": [
+    "virtually"
+  ],
+  "identifiable": [
+    "correct "
+  ],
+  "identify": [
+    "accurately",
+    "clearly",
+    "correctly",
+    "easily",
+    "finally",
+    "frequently",
+    "initially",
+    "readily",
+    "specifically location",
+    "mechanism",
+    "need",
+    "number",
+    "pattern",
+    "preference",
+    "problem",
+    "relationship",
+    "source",
+    "species",
+    "strategy",
+    "theme",
+    "trend",
+    "type",
+    "variable",
+    "weakness"
+  ],
+  "illustrate": [
+    "clearly",
+    "well"
+  ],
+  "image": [
+    "contain",
+    "create",
+    "enhance",
+    "produce",
+    "promote"
+  ],
+  "impact": [
+    "address",
+    "assess",
+    "consider",
+    "demonstrate",
+    "determine",
+    "discuss",
+    "evaluate",
+    "examine",
+    "explore",
+    "have",
+    "investigate",
+    "make",
+    "minimise",
+    "reduce",
+    "reflect",
+    "understand "
+  ],
+  "impetus": [
+    "give",
+    "provide"
+  ],
+  "implementation": [
+    "actual",
+    "successful"
+  ],
+  "implication": [
+    "carry",
+    "consider",
+    "discuss",
+    "examine",
+    "explore",
+    "have",
+    "understand"
+  ],
+  "imply": [
+    "necessarily"
+  ],
+  "importance": [
+    "appreciate",
+    "assess",
+    "assume",
+    "confirm",
+    "demonstrate",
+    "discuss",
+    "emphasise",
+    "highlight",
+    "illustrate",
+    "indicate",
+    "note",
+    "place",
+    "recognise",
+    "reflect",
+    "reinforce",
+    "show",
+    "stress",
+    "underline",
+    "underscore",
+    "understand"
+  ],
+  "important": [
+    "become",
+    "deem"
+  ],
+  "improve": [
+    "actually",
+    "considerably",
+    "dramatically",
+    "generally",
+    "greatly",
+    "significantly"
+  ],
+  "improvement": [
+    "analysis",
+    "discussion",
+    "interview",
+    "study "
+  ],
+  "incentive": [
+    "have"
+  ],
+  "include": [
+    "additionally",
+    "explicitly",
+    "finally",
+    "specifically",
+    "typically examination",
+    "following",
+    "information",
+    "item",
+    "letter",
+    "monitoring",
+    "reference",
+    "statement",
+    "variety"
+  ],
+  "inclusion": [
+    "social knowledge",
+    "measure",
+    "strategy"
+  ],
+  "increase": [
+    "actually",
+    "consequently",
+    "considerably",
+    "dramatically",
+    "exponentially",
+    "gradually",
+    "greatly",
+    "linearly",
+    "markedly",
+    "rapidly",
+    "sharply",
+    "significantly",
+    "slightly",
+    "steadily",
+    "substantially"
+  ],
+  "independent": [
+    "completely",
+    "entirely",
+    "largely"
+  ],
+  "indicate": [
+    "clearly",
+    "finally",
+    "necessarily",
+    "similarly"
+  ],
+  "indicator": [
+    "good",
+    "important",
+    "key",
+    "reliable "
+  ],
+  "individual": [
+    "protect"
+  ],
+  "inequality": [
+    "social"
+  ],
+  "inference": [
+    "draw",
+    "make"
+  ],
+  "influence": [
+    "clearly",
+    "directly",
+    "greatly",
+    "positively",
+    "possibly",
+    "profoundly",
+    "significantly",
+    "strongly"
+  ],
+  "influential": [
+    "highly"
+  ],
+  "inform": [
+    "fully",
+    "well"
+  ],
+  "information": [
+    "access",
+    "acquire",
+    "collect",
+    "communicate",
+    "contain",
+    "convey",
+    "deliver",
+    "disclose",
+    "disseminate",
+    "elicit",
+    "encode",
+    "exchange",
+    "exploit",
+    "extract",
+    "find",
+    "gain",
+    "gather",
+    "generate",
+    "get",
+    "give",
+    "handle",
+    "include",
+    "incorporate",
+    "integrate",
+    "miss",
+    "obtain",
+    "offer",
+    "provide",
+    "receive",
+    "retain",
+    "retrieve",
+    "reveal",
+    "seek",
+    "share",
+    "specify",
+    "store",
+    "transmit",
+    "yield"
+  ],
+  "initiative": [
+    "technological "
+  ],
+  "input": [
+    "provide",
+    "require"
+  ],
+  "inquiry": [
+    "scientific"
+  ],
+  "insight": [
+    "relatively"
+  ],
+  "instance": [
+    "national",
+    "research"
+  ],
+  "instrument": [
+    "use"
+  ],
+  "interaction": [
+    "examine",
+    "investigate"
+  ],
+  "interest": [
+    "attract",
+    "express",
+    "generate",
+    "lose",
+    "maintain",
+    "promote",
+    "reflect",
+    "represent",
+    "serve",
+    "share",
+    "stimulate"
+  ],
+  "interplay": [
+    "complex",
+    "dynamic"
+  ],
+  "interpret": [
+    "cautiously",
+    "correctly",
+    "differently",
+    "easily",
+    "similarly",
+    "usually "
+  ],
+  "interpretation": [
+    "affect",
+    "allow",
+    "facilitate",
+    "require",
+    "support "
+  ],
+  "introduction": [
+    "provide"
+  ],
+  "inventory": [
+    "personality"
+  ],
+  "involve": [
+    "actively",
+    "closely",
+    "directly",
+    "frequently",
+    "generally",
+    "heavily",
+    "increasingly",
+    "mainly",
+    "necessarily",
+    "normally",
+    "probably",
+    "typically",
+    "usually kind",
+    "loss",
+    "series",
+    "step",
+    "transfer"
+  ],
+  "isolation": [
+    "social"
+  ],
+  "judgement": [
+    "make"
+  ],
+  "judgment": [
+    "make"
+  ],
+  "justification": [
+    "provide"
+  ],
+  "knowledge": [
+    "acquire",
+    "apply",
+    "build",
+    "enhance",
+    "extend",
+    "gain",
+    "improve",
+    "incorporate",
+    "integrate",
+    "represent",
+    "require",
+    "share"
+  ],
+  "labelled": [
+    "clearly"
+  ],
+  "lack": [
+    "generally"
+  ],
+  "lag": [
+    "time"
+  ],
+  "language": [
+    "speak"
+  ],
+  "large-scale": [
+    "project",
+    "study explain",
+    "focus",
+    "ignore",
+    "limit",
+    "restrict"
+  ],
+  "learned": [
+    "quickly"
+  ],
+  "level": [
+    "achieve",
+    "determine",
+    "display",
+    "exceed",
+    "exhibit",
+    "indicate",
+    "maintain",
+    "raise",
+    "reach",
+    "reduce",
+    "reflect"
+  ],
+  "likelihood": [
+    "decrease",
+    "increase",
+    "reduce"
+  ],
+  "likely": [
+    "conversely",
+    "equally",
+    "especially",
+    "highly",
+    "increasingly",
+    "particularly",
+    "quite",
+    "similarly"
+  ],
+  "limit": [
+    "currently",
+    "extremely",
+    "fairly",
+    "largely",
+    "mainly",
+    "necessarily",
+    "obviously",
+    "quite",
+    "relatively",
+    "severely",
+    "usually"
+  ],
+  "limitation": [
+    "acknowledge",
+    "address",
+    "have",
+    "impose",
+    "recognise",
+    "reveal"
+  ],
+  "link": [
+    "closely",
+    "directly",
+    "inextricably",
+    "strongly",
+    "tightly"
+  ],
+  "literature": [
+    "research"
+  ],
+  "locate": [
+    "centrally"
+  ],
+  "long-term": [
+    "benefit",
+    "change",
+    "commitment",
+    "damage",
+    "development",
+    "effect",
+    "goal",
+    "impact",
+    "objective",
+    "perspective",
+    "problem",
+    "strategy",
+    "success",
+    "sustainability",
+    "trend"
+  ],
+  "low": [
+    "comparatively",
+    "consistently",
+    "extremely",
+    "fairly",
+    "quite",
+    "relatively"
+  ],
+  "male": [
+    "adult",
+    "white",
+    "young"
+  ],
+  "management": [
+    "effective",
+    "efficient",
+    "financial",
+    "human",
+    "poor",
+    "senior",
+    "successful "
+  ],
+  "manipulate": [
+    "easily"
+  ],
+  "manipulation": [
+    "require"
+  ],
+  "manner": [
+    "analogous",
+    "appropriate",
+    "consistent",
+    "different",
+    "effective",
+    "efficient",
+    "following",
+    "similar",
+    "simple",
+    "straightforward",
+    "systematic"
+  ],
+  "material": [
+    "covariance"
+  ],
+  "matrix": [
+    "correlation",
+    "covariance"
+  ],
+  "meaning": [
+    "clarify",
+    "convey",
+    "give",
+    "have",
+    "interpret",
+    "understand"
+  ],
+  "measure": [
+    "directly",
+    "easily"
+  ],
+  "mechanism": [
+    "describe",
+    "identify",
+    "introduce",
+    "provide"
+  ],
+  "membership": [
+    "class",
+    "group"
+  ],
+  "method": [
+    "adopt",
+    "apply",
+    "choose",
+    "combine",
+    "develop",
+    "devise",
+    "employ",
+    "implement",
+    "propose",
+    "use"
+  ],
+  "minority": [
+    "ethnic",
+    "racial",
+    "significant",
+    "small "
+  ],
+  "mode": [
+    "different",
+    "dominant",
+    "new",
+    "normal",
+    "particular",
+    "various"
+  ],
+  "model": [
+    "build",
+    "construct",
+    "develop",
+    "employ",
+    "extend",
+    "propose  system",
+    "technology",
+    "theory",
+    "time",
+    "world"
+  ],
+  "modify": [
+    "slightly"
+  ],
+  "monitoring": [
+    "include",
+    "require"
+  ],
+  "monopoly": [
+    "have"
+  ],
+  "motivate": [
+    "highly"
+  ],
+  "movement": [
+    "restrict measure",
+    "perspective",
+    "point",
+    "regression",
+    "source"
+  ],
+  "nature": [
+    "absolutely",
+    "clearly",
+    "really"
+  ],
+  "necessary": [
+    "deem"
+  ],
+  "need": [
+    "generally"
+  ],
+  "norm": [
+    "different",
+    "social"
+  ],
+  "noteworthy": [
+    "particularly"
+  ],
+  "noticeable": [
+    "particularly"
+  ],
+  "notion": [
+    "introduce",
+    "reinforce",
+    "support"
+  ],
+  "objective": [
+    "meet"
+  ],
+  "observation": [
+    "participant"
+  ],
+  "observe": [
+    "additionally",
+    "directly",
+    "finally",
+    "typically "
+  ],
+  "obstacle": [
+    "overcome"
+  ],
+  "obtain": [
+    "easily"
+  ],
+  "occur": [
+    "actually",
+    "earlier",
+    "frequently",
+    "immediately",
+    "infrequently",
+    "later",
+    "mainly",
+    "naturally",
+    "primarily",
+    "probably",
+    "quickly",
+    "rapidly",
+    "rarely",
+    "similarly",
+    "simultaneously",
+    "typically "
+  ],
+  "occurrence": [
+    "explain",
+    "predict"
+  ],
+  "offspring": [
+    "produce"
+  ],
+  "one-way": [
+    "analysis"
+  ],
+  "organisation": [
+    "business",
+    "community",
+    "complex",
+    "health",
+    "research",
+    "trade "
+  ],
+  "origin": [
+    "common",
+    "different",
+    "recent"
+  ],
+  "outcome": [
+    "briefly"
+  ],
+  "output": [
+    "generate",
+    "produce"
+  ],
+  "outweigh": [
+    "far distribution",
+    "effect",
+    "effectiveness",
+    "evaluation",
+    "finding",
+    "framework",
+    "frequency",
+    "goal",
+    "impact",
+    "impression",
+    "improvement",
+    "level",
+    "pattern",
+    "performance",
+    "picture",
+    "plan",
+    "population",
+    "process",
+    "quality",
+    "rate",
+    "scheme",
+    "score",
+    "strategy",
+    "structure",
+    "value",
+    "volume"
+  ],
+  "overlap": [
+    "considerable"
+  ],
+  "overview": [
+    "give",
+    "present",
+    "provide"
+  ],
+  "ownership": [
+    "car"
+  ],
+  "paradigm": [
+    "different",
+    "new"
+  ],
+  "paragraph": [
+    "closely "
+  ],
+  "parallel": [
+    "closely"
+  ],
+  "parameter": [
+    "define"
+  ],
+  "participation": [
+    "encourage",
+    "increase",
+    "require"
+  ],
+  "pattern": [
+    "relative"
+  ],
+  "perceive": [
+    "generally",
+    "widely"
+  ],
+  "percentage": [
+    "average",
+    "greater",
+    "high",
+    "higher",
+    "highest",
+    "large",
+    "larger",
+    "largest",
+    "low",
+    "lower",
+    "mean",
+    "small",
+    "smaller",
+    "total"
+  ],
+  "perform": [
+    "actually",
+    "adequately",
+    "correctly",
+    "effectively",
+    "poorly",
+    "successfully",
+    "well "
+  ],
+  "performance": [
+    "achieve",
+    "affect",
+    "assess",
+    "compare",
+    "enhance",
+    "evaluate",
+    "examine",
+    "impair",
+    "improve",
+    "influence",
+    "investigate",
+    "monitor",
+    "predict"
+  ],
+  "period": [
+    "cover",
+    "span",
+    "spend"
+  ],
+  "perspective": [
+    "adopt",
+    "offer",
+    "provide",
+    "take "
+  ],
+  "pertinent": [
+    "particularly"
+  ],
+  "phase": [
+    "enter"
+  ],
+  "phenomenon": [
+    "describe",
+    "explain",
+    "understand "
+  ],
+  "planning": [
+    "require"
+  ],
+  "policy": [
+    "adopt",
+    "develop",
+    "implement",
+    "inform",
+    "shape"
+  ],
+  "population": [
+    "represent",
+    "serve"
+  ],
+  "positive": [
+    "generally"
+  ],
+  "potential": [
+    "assess",
+    "exploit",
+    "explore",
+    "have",
+    "highlight",
+    "maximise",
+    "offer",
+    "reach",
+    "realise",
+    "recognise"
+  ],
+  "practise": [
+    "general",
+    "individual",
+    "medical "
+  ],
+  "precedence": [
+    "take"
+  ],
+  "precision": [
+    "increase"
+  ],
+  "predict": [
+    "correctly",
+    "reliably",
+    "similarly "
+  ],
+  "prediction": [
+    "have "
+  ],
+  "preference": [
+    "identify",
+    "indicate",
+    "influence",
+    "reflect",
+    "show "
+  ],
+  "premise": [
+    "basic"
+  ],
+  "preoccupation": [
+    "reflect"
+  ],
+  "presence": [
+    "confirm",
+    "indicate",
+    "require",
+    "reveal"
+  ],
+  "present": [
+    "briefly",
+    "commonly",
+    "earlier",
+    "finally",
+    "frequently",
+    "graphically",
+    "initially",
+    "physically",
+    "previously",
+    "simultaneously",
+    "subsequently",
+    "usually"
+  ],
+  "presentation": [
+    "stimulus "
+  ],
+  "principle": [
+    "apply",
+    "illustrate",
+    "introduce",
+    "invoke",
+    "outline "
+  ],
+  "probability": [
+    "highly"
+  ],
+  "problematic": [
+    "particularly",
+    "potentially "
+  ],
+  "procedure": [
+    "active",
+    "actual",
+    "biological",
+    "cognitive",
+    "complex",
+    "complicated",
+    "continuous",
+    "controlled",
+    "creative",
+    "democratic",
+    "developmental",
+    "distinct",
+    "dynamic",
+    "efficient",
+    "entire",
+    "evolutionary",
+    "formal",
+    "fundamental",
+    "gradual",
+    "higher",
+    "industrial",
+    "internal",
+    "iterative",
+    "legal",
+    "lengthy",
+    "manufacturing",
+    "mental",
+    "natural",
+    "normal",
+    "ongoing",
+    "overall",
+    "physical",
+    "planning",
+    "psychological",
+    "related",
+    "reverse",
+    "slow",
+    "systematic",
+    "underlying"
+  ],
+  "process": [
+    "accelerate",
+    "describe",
+    "examine",
+    "facilitate",
+    "guide",
+    "initiate",
+    "learning",
+    "reflect",
+    "reverse",
+    "slow",
+    "undergo",
+    "understand"
+  ],
+  "processing": [
+    "data",
+    "food",
+    "information",
+    "language",
+    "word "
+  ],
+  "produce": [
+    "actually",
+    "automatically",
+    "easily",
+    "locally",
+    "ultimately kind",
+    "list",
+    "material",
+    "offspring",
+    "output",
+    "pattern",
+    "picture",
+    "product",
+    "programme",
+    "publication",
+    "response",
+    "result",
+    "series",
+    "sound",
+    "variety",
+    "volume"
+  ],
+  "product": [
+    "buy",
+    "create",
+    "produce",
+    "sell"
+  ],
+  "production": [
+    "food",
+    "mass"
+  ],
+  "productivity": [
+    "agricultural",
+    "increased",
+    "low "
+  ],
+  "profession": [
+    "medical"
+  ],
+  "professional": [
+    "care",
+    "health"
+  ],
+  "profile": [
+    "different",
+    "high",
+    "low"
+  ],
+  "project": [
+    "carry",
+    "complete",
+    "undertake"
+  ],
+  "prominent": [
+    "particularly"
+  ],
+  "promote": [
+    "actively image",
+    "improvement",
+    "interest"
+  ],
+  "propensity": [
+    "have"
+  ],
+  "proportion": [
+    "contain",
+    "increase"
+  ],
+  "proportional": [
+    "directly"
+  ],
+  "propose": [
+    "initially",
+    "originally",
+    "recently"
+  ],
+  "protection": [
+    "afford",
+    "give",
+    "offer",
+    "provide",
+    "require"
+  ],
+  "provide": [
+    "accordingly",
+    "additionally",
+    "consequently",
+    "finally",
+    "undoubtedly "
+  ],
+  "proximity": [
+    "close",
+    "temporal"
+  ],
+  "publication": [
+    "later",
+    "original",
+    "recent "
+  ],
+  "publish": [
+    "later",
+    "originally",
+    "previously",
+    "recently "
+  ],
+  "purpose": [
+    "research"
+  ],
+  "quality": [
+    "large",
+    "small",
+    "substantial",
+    "sufficient "
+  ],
+  "quantity": [
+    "reduce"
+  ],
+  "ramification": [
+    "have"
+  ],
+  "range": [
+    "widely"
+  ],
+  "rate": [
+    "affect",
+    "calculate",
+    "determine",
+    "find",
+    "increase",
+    "lower",
+    "raise",
+    "reduce"
+  ],
+  "ratio": [
+    "log",
+    "odds"
+  ],
+  "rationale": [
+    "provide"
+  ],
+  "recognition": [
+    "achieve",
+    "facilitate",
+    "gain",
+    "receive",
+    "require"
+  ],
+  "recognise": [
+    "clearly",
+    "easily",
+    "generally",
+    "immediately",
+    "increasingly",
+    "long",
+    "soon",
+    "well",
+    "widely"
+  ],
+  "recommendation": [
+    "make",
+    "offer",
+    "provide",
+    "receive",
+    "support "
+  ],
+  "reduce": [
+    "considerably",
+    "drastically",
+    "effectively",
+    "gradually",
+    "greatly",
+    "sharply",
+    "significantly",
+    "substantially"
+  ],
+  "reduction": [
+    "show"
+  ],
+  "refer": [
+    "commonly",
+    "frequently",
+    "generally",
+    "henceforth",
+    "later",
+    "respectively",
+    "simply",
+    "usually"
+  ],
+  "reference": [
+    "contain",
+    "include",
+    "make"
+  ],
+  "reflect": [
+    "accurately",
+    "clearly",
+    "closely",
+    "directly",
+    "fully",
+    "largely",
+    "necessarily",
+    "partly",
+    "possibly",
+    "presumably",
+    "probably",
+    "similarly",
+    "simply complexity",
+    "concern",
+    "degree",
+    "demand",
+    "development",
+    "difference",
+    "difficulty",
+    "diversity",
+    "experience",
+    "extent",
+    "fact",
+    "impact",
+    "importance",
+    "influence",
+    "interest",
+    "lack",
+    "level",
+    "nature",
+    "need",
+    "opinion",
+    "pattern",
+    "perception",
+    "position",
+    "practise",
+    "preference",
+    "preoccupation",
+    "process",
+    "reality",
+    "shift",
+    "situation",
+    "status",
+    "structure",
+    "tendency",
+    "trend",
+    "uncertainty",
+    "understanding",
+    "variety"
+  ],
+  "reflection": [
+    "accurate",
+    "direct"
+  ],
+  "regard": [
+    "commonly",
+    "especially",
+    "generally",
+    "highly",
+    "particularly",
+    "previously",
+    "usually",
+    "widely"
+  ],
+  "region": [
+    "northern"
+  ],
+  "relate": [
+    "clearly",
+    "closely",
+    "directly",
+    "especially",
+    "highly",
+    "indirectly",
+    "intimately",
+    "inversely",
+    "mainly",
+    "negatively",
+    "obviously",
+    "particularly",
+    "positively",
+    "primarily",
+    "probably",
+    "significantly",
+    "simply",
+    "specifically",
+    "strongly",
+    "structurally"
+  ],
+  "relation": [
+    "bear",
+    "establish",
+    "examine",
+    "improve",
+    "mediate"
+  ],
+  "relationship": [
+    "affect",
+    "alter",
+    "assess",
+    "bear",
+    "build",
+    "clarify",
+    "demonstrate",
+    "describe",
+    "develop",
+    "establish",
+    "evaluate",
+    "examine",
+    "exhibit",
+    "explain",
+    "explore",
+    "find",
+    "identify",
+    "imply",
+    "improve",
+    "indicate",
+    "investigate",
+    "maintain",
+    "moderate",
+    "reveal",
+    "show",
+    "understand"
+  ],
+  "relevance": [
+    "assess",
+    "establish",
+    "have"
+  ],
+  "relevant": [
+    "directly",
+    "especially",
+    "highly",
+    "particularly",
+    "potentially",
+    "socially"
+  ],
+  "rely": [
+    "exclusively",
+    "heavily",
+    "mainly",
+    "primarily",
+    "solely"
+  ],
+  "report": [
+    "additionally",
+    "commonly",
+    "correctly",
+    "earlier",
+    "frequently",
+    "interestingly",
+    "previously",
+    "recently",
+    "similarly",
+    "specifically",
+    "widely"
+  ],
+  "represent": [
+    "accurately",
+    "actually",
+    "adequately",
+    "clearly",
+    "directly",
+    "necessarily",
+    "respectively",
+    "simply",
+    "usually",
+    "well"
+  ],
+  "representative": [
+    "fairly"
+  ],
+  "require": [
+    "actually",
+    "certainly",
+    "clearly",
+    "consequently",
+    "generally",
+    "longer",
+    "necessarily",
+    "normally",
+    "obviously",
+    "typically",
+    "urgently",
+    "usually"
+  ],
+  "requirement": [
+    "fulfil",
+    "meet",
+    "satisfy"
+  ],
+  "research": [
+    "carry",
+    "conduct",
+    "extend",
+    "guide",
+    "inform",
+    "undertake"
+  ],
+  "resistance": [
+    "offer"
+  ],
+  "resolution": [
+    "successful",
+    "temporal"
+  ],
+  "resource": [
+    "allocate",
+    "devote",
+    "exploit",
+    "lack",
+    "provide",
+    "require "
+  ],
+  "response": [
+    "far",
+    "largely",
+    "relatively",
+    "severely"
+  ],
+  "restriction": [
+    "impose",
+    "place"
+  ],
+  "result": [
+    "inevitably",
+    "partly",
+    "probably",
+    "ultimately"
+  ],
+  "reveal": [
+    "clearly",
+    "similarly finding",
+    "information",
+    "insight",
+    "lack",
+    "limitation",
+    "pattern",
+    "presence",
+    "relationship",
+    "structure",
+    "trend"
+  ],
+  "review": [
+    "briefly",
+    "critically"
+  ],
+  "revision": [
+    "require"
+  ],
+  "revolution": [
+    "scientific"
+  ],
+  "role": [
+    "acknowledge",
+    "address",
+    "assess",
+    "assign",
+    "assume",
+    "clarify",
+    "define",
+    "demonstrate",
+    "discuss",
+    "examine",
+    "explore",
+    "highlight",
+    "investigate",
+    "occupy",
+    "perform",
+    "play",
+    "recognise",
+    "serve",
+    "suggest",
+    "take",
+    "understand"
+  ],
+  "scale": [
+    "complete",
+    "use"
+  ],
+  "scenario": [
+    "hypothetical",
+    "possible"
+  ],
+  "scheme": [
+    "develop",
+    "establish",
+    "introduce"
+  ],
+  "science": [
+    "computer",
+    "medical",
+    "social"
+  ],
+  "scope": [
+    "define",
+    "give",
+    "limit",
+    "offer",
+    "provide",
+    "reduce",
+    "widen"
+  ],
+  "section": [
+    "cross",
+    "discussion"
+  ],
+  "sector": [
+    "actively"
+  ],
+  "selection": [
+    "careful",
+    "natural",
+    "random"
+  ],
+  "separate": [
+    "clearly",
+    "completely",
+    "easily",
+    "entirely",
+    "physically",
+    "widely"
+  ],
+  "separation": [
+    "complete"
+  ],
+  "sequence": [
+    "complete",
+    "complex",
+    "given",
+    "linear",
+    "logical",
+    "long",
+    "specific"
+  ],
+  "sharing": [
+    "information"
+  ],
+  "shift": [
+    "cause",
+    "indicate",
+    "reflect",
+    "represent"
+  ],
+  "short-term": [
+    "benefit",
+    "effect",
+    "goal",
+    "memory"
+  ],
+  "shortcoming": [
+    "have"
+  ],
+  "signal": [
+    "send"
+  ],
+  "significance": [
+    "approach",
+    "assess",
+    "demonstrate",
+    "determine",
+    "emphasise",
+    "have",
+    "indicate",
+    "lose",
+    "reach",
+    "recognise",
+    "understand"
+  ],
+  "significant": [
+    "highly",
+    "marginally",
+    "particularly",
+    "statistically"
+  ],
+  "similar": [
+    "look"
+  ],
+  "similarity": [
+    "demonstrate",
+    "identify",
+    "note",
+    "share",
+    "show "
+  ],
+  "simplify": [
+    "greatly"
+  ],
+  "small-scale": [
+    "study"
+  ],
+  "society": [
+    "civil",
+    "international",
+    "royal"
+  ],
+  "solution": [
+    "find",
+    "offer",
+    "provide",
+    "reach",
+    "seek",
+    "yield "
+  ],
+  "source": [
+    "constitute",
+    "identify",
+    "provide",
+    "represent  develop",
+    "direct",
+    "examine",
+    "exclude",
+    "focus",
+    "identify",
+    "include",
+    "interest",
+    "investigate",
+    "look",
+    "mention",
+    "occur",
+    "recommend",
+    "relate",
+    "report",
+    "show",
+    "test"
+  ],
+  "specification": [
+    "meet"
+  ],
+  "standard": [
+    "adopt",
+    "ensure",
+    "establish",
+    "improve",
+    "meet"
+  ],
+  "state": [
+    "clearly",
+    "earlier",
+    "explicitly",
+    "previously",
+    "simply"
+  ],
+  "status": [
+    "achieve",
+    "affect",
+    "assess",
+    "attain",
+    "determine",
+    "improve",
+    "maintain",
+    "reflect "
+  ],
+  "stimulus": [
+    "provide"
+  ],
+  "straightforward": [
+    "quite",
+    "relatively "
+  ],
+  "strategy": [
+    "lower"
+  ],
+  "striking": [
+    "particularly"
+  ],
+  "structure": [
+    "highly"
+  ],
+  "study": [
+    "case",
+    "pilot"
+  ],
+  "subject": [
+    "teach"
+  ],
+  "subjective": [
+    "highly"
+  ],
+  "successful": [
+    "extremely",
+    "highly",
+    "remarkably"
+  ],
+  "succession": [
+    "rapid"
+  ],
+  "suggest": [
+    "additionally",
+    "alternatively",
+    "certainly",
+    "finally",
+    "interestingly",
+    "overall",
+    "previously",
+    "recently",
+    "similarly",
+    "strongly"
+  ],
+  "sum": [
+    "large"
+  ],
+  "summarise": [
+    "briefly"
+  ],
+  "summary": [
+    "give",
+    "present",
+    "provide"
+  ],
+  "support": [
+    "empirically",
+    "fully",
+    "partially",
+    "strongly"
+  ],
+  "supportive": [
+    "highly"
+  ],
+  "survey": [
+    "health",
+    "household",
+    "ordnance"
+  ],
+  "survival": [
+    "ensure"
+  ],
+  "susceptible": [
+    "particularly"
+  ],
+  "synthesis": [
+    "new"
+  ],
+  "system": [
+    "care",
+    "classification",
+    "communication",
+    "computer",
+    "control",
+    "data",
+    "database",
+    "defence",
+    "delivery",
+    "education",
+    "expert",
+    "information",
+    "justice",
+    "management",
+    "nervous",
+    "operating",
+    "processing",
+    "production",
+    "reward",
+    "river",
+    "satellite",
+    "scoring",
+    "security",
+    "software",
+    "trading",
+    "transport",
+    "transportation "
+  ],
+  "table": [
+    "contingency"
+  ],
+  "targeted": [
+    "specifically"
+  ],
+  "task": [
+    "highly"
+  ],
+  "technique": [
+    "apply",
+    "combine",
+    "describe",
+    "develop",
+    "employ",
+    "introduce",
+    "use "
+  ],
+  "technology": [
+    "communication",
+    "computer",
+    "information "
+  ],
+  "tendency": [
+    "general",
+    "greater",
+    "natural",
+    "strong "
+  ],
+  "tenet": [
+    "fundamental"
+  ],
+  "term": [
+    "coin"
+  ],
+  "terminology": [
+    "use"
+  ],
+  "test": [
+    "directly",
+    "experimentally",
+    "individually",
+    "specifically "
+  ],
+  "theme": [
+    "identify"
+  ],
+  "theory": [
+    "apply",
+    "build",
+    "construct",
+    "develop",
+    "formulate",
+    "learning",
+    "propose",
+    "support"
+  ],
+  "thesis": [
+    "support"
+  ],
+  "tool": [
+    "provide",
+    "use"
+  ],
+  "top-down": [
+    "approach",
+    "processing"
+  ],
+  "trait": [
+    "personality"
+  ],
+  "trajectory": [
+    "follow"
+  ],
+  "transformation": [
+    "undergo"
+  ],
+  "transition": [
+    "ease",
+    "make",
+    "mark"
+  ],
+  "transport": [
+    "road"
+  ],
+  "trend": [
+    "follow",
+    "highlight",
+    "identify",
+    "indicate",
+    "reflect",
+    "reveal",
+    "reverse",
+    "show"
+  ],
+  "two-stage": [
+    "process"
+  ],
+  "two-step": [
+    "process"
+  ],
+  "type": [
+    "distinguish",
+    "identify"
+  ],
+  "typical": [
+    "fairly"
+  ],
+  "uncertainty": [
+    "reduce",
+    "reflect"
+  ],
+  "understanding": [
+    "currently",
+    "recently opportunity",
+    "perspective",
+    "property",
+    "role"
+  ],
+  "unit": [
+    "contain"
+  ],
+  "university": [
+    "state"
+  ],
+  "unrelated": [
+    "apparently"
+  ],
+  "unstable": [
+    "highly"
+  ],
+  "unsuccessful": [
+    "largely"
+  ],
+  "use": [
+    "find",
+    "make",
+    "preclude",
+    "prohibit"
+  ],
+  "useful": [
+    "find",
+    "prove"
+  ],
+  "usefulness": [
+    "evaluate",
+    "limit"
+  ],
+  "user": [
+    "allow",
+    "help"
+  ],
+  "utility": [
+    "expected",
+    "practical"
+  ],
+  "valid": [
+    "equally",
+    "longer"
+  ],
+  "valuable": [
+    "extremely",
+    "particularly",
+    "potentially"
+  ],
+  "value": [
+    "highly"
+  ],
+  "variable": [
+    "highly"
+  ],
+  "variant": [
+    "different"
+  ],
+  "variation": [
+    "examine",
+    "explain"
+  ],
+  "variety": [
+    "cover",
+    "demonstrate",
+    "encompass",
+    "include",
+    "offer",
+    "produce",
+    "reflect",
+    "use"
+  ],
+  "vary": [
+    "considerably",
+    "enormously",
+    "greatly",
+    "markedly",
+    "obviously",
+    "significantly",
+    "substantially",
+    "systematically"
+  ],
+  "vessel": [
+    "blood"
+  ],
+  "viability": [
+    "economic"
+  ],
+  "visible": [
+    "clearly",
+    "highly"
+  ],
+  "vision": [
+    "normal",
+    "peripheral"
+  ],
+  "volume": [
+    "reduce"
+  ],
+  "weakness": [
+    "identify"
+  ],
+  "weight": [
+    "heavily"
+  ],
+  "well-being": [
+    "promote"
+  ],
+  "well-designed": [
+    "study"
+  ]
+}
